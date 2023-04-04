@@ -1,0 +1,42 @@
+{
+  "url": "https://spb.hh.ru/search/vacancy?",
+  "params": {
+    "text": "python",
+    "area": [
+      "1",
+      "2"
+    ],
+    "page": "0"
+  },
+  "headers": {
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+  },
+  "keyword_search": [
+    "django",
+    "flask"
+  ],
+  "vacancies": [
+    {
+      "hh_link": "https://spb.hh.ru/vacancy/76767074?from=vacancy_search_list&query=python",
+      "title": "Наставник курсов по Python разработке",
+      "salary_fork": "от 60 000 до 100 000 руб. на руки",
+      "required_experience": "3–6 лет",
+      "company": "Skyeng",
+      "company_hh_link": "https://spb.hh.ru/employer/1122462?hhtmFrom=vacancy",
+      "city": "Москва",
+      "data": "Вакансия опубликована 3 апреля 2023 в Москве"
+    },
+    {
+      "hh_link": "https://spb.hh.ru/vacancy/70705466?from=vacancy_search_list&query=python",
+      "title": "Python-разработчик (Django, DRF)",
+      "salary_fork": "от 60 000 до 220 000 руб. на руки",
+      "required_experience": "3–6 лет",
+      "company": "ООО Фабрика Решений",
+      "company_hh_link": "https://spb.hh.ru/employer/4596113?hhtmFrom=vacancy",
+      "city": "Москва",
+      "data": "Вакансия опубликована 3 апреля 2023 в Москве"
+    }
+  ]
+}
